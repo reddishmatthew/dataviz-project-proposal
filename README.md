@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [a history of Meteorite Landings]([https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data]).
+The data I propose to visualize for my project is a history of [Meteorite Landings]([https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data]).
 
 The dataset records historical meteorite landings since the year 1880 and the geolocations of their landings, supplied by NASA. 
 
