@@ -1,8 +1,9 @@
+
 # Data Visualization Project
 
 ## Data
 
-The data I propose to visualize for my project is a history of [Meteorite Landings]([https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data]).
+The data I propose to visualize for my project is a history of [[Meteorite Landings]([https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data])].
 
 Source: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data
 
@@ -11,14 +12,13 @@ The dataset records historical meteorite landings since the year 1880 and the ge
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+1. **GeoLocation Accurate Landings of Each Meteorite**
 
-
-* I want to see the relative locations of the landings on the planet surface.
-I want to represent the sizes of the meteorites by their mass (g).
-I want to be able to see the chronological order of the landings.
-I want to be able to see the distribution of class type of meteorites.
-I want to see the correlation between size and class type.
+  - Vi I want to see the relative locations of the landings on the planet surface.
+* I want to represent the sizes of the meteorites by their mass (g).
+* I want to be able to see the chronological order of the landings.
+* I want to be able to see the distribution of class type of meteorites.
+* I want to see the correlation between size and class type.
 
 ## Sketches
 
