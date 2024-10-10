@@ -41,8 +41,28 @@ The dataset records historical meteorite landings since the year 1880 and the ge
 
 ## Sketches
 
-[![image](IMG_6679.jpg)]
+![image](IMG_6679.jpg)
 
+Above is my sketch that displays how the general look will be. Notice the world map decorated in the background
+to visualize rough location of landing. The world map will fill with circles to display the meteorites.
+
+![image](ApplicationFrameHost_C9rAl5h2MM.png)
+
+This is a more detailed depiction of the previous sketch. Notice the bars that display latitude and longitude.
+The map will be to real scale coordinates. 
+The circles are of different sizes and color to display the mass and class type.
+
+![image](SecondImage.png)
+
+This shows the interactability within the visualization. When clicking on a meteor, it will display the 
+data correlated to it. Showing the categories "Name, Class, Mass (g), Year, GeoLocation" that are 
+supplied by the dataset.
+
+![image](ThirdImage.png)
+
+This image shows a comparison factor. When double clicking on another meteorite the two will be side 
+by side for easy comparison. In the future I may implement a 'difference' factor that shows how much
+more or less tha mass, year and GeoLocation is to the other.
 
 ## Prototypes
 
