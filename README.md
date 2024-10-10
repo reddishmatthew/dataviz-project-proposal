@@ -83,10 +83,13 @@ You can make images into links like this:
 
 Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
 
-## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+**Week 8**
+**Week 9**
+**Week 10**
+**Week 11**
+**Week 12**
+**Week 13**
+**Week 14**
