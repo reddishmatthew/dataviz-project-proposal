@@ -66,30 +66,20 @@ more or less tha mass, year and GeoLocation is to the other.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the latitude
+and longitude accurate map of the world with historical data of meteorite landings. Each dot represents 
+a landing, but currently does not show when they landed, what class they are and their mass.
 
 [![image](Visualization.png)](https://vizhub.com/reddishmatthew/landings-scatterplot)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
+Click on the image to be sent to the VizHub.
 
 ## Milestones
 
-**Week 8**
-**Week 9**
-**Week 10**
-**Week 11**
-**Week 12**
-**Week 13**
-**Week 14**
+**Week 8:** Create the world map and change the sizes of the data points by mass.
+**Week 9:** Change the hue based on the class type. Add a year counter.
+**Week 10:** Animate the data points to enter one at a time, year counter follows.
+**Week 11:** Add a second animation so the data points fade once a maximum amount of data points shown is reached.
+**Week 12:** Create a mouse click interaction to display data.
+**Week 13:** Create a comparison tool that expands on the mouse click interaction.
+**Week 14:** Finalize and report.
