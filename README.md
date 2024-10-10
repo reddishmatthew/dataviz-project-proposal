@@ -12,7 +12,7 @@ The dataset records historical meteorite landings since the year 1880 and the ge
 
 1. **GeoLocation Accurate Landings of Each Meteorite**
 
-  - Visualize the latitude and longitude accurate locations of the landings
+   - Visualize the latitude and longitude accurate locations of the landings
     of each meteorite. Displaying with opacity the the areas with higher and
     lower effect.
 
