@@ -5,8 +5,6 @@
 
 The data I propose to visualize for my project is a history of [Meteorite Landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data).
 
-Source: https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data
-
 The dataset records historical meteorite landings since the year 1880 and the geolocations of their landings, supplied by NASA. 
 
 
@@ -14,16 +12,36 @@ The dataset records historical meteorite landings since the year 1880 and the ge
 
 1. **GeoLocation Accurate Landings of Each Meteorite**
 
-  - Vi I want to see the relative locations of the landings on the planet surface.
-* I want to represent the sizes of the meteorites by their mass (g).
-* I want to be able to see the chronological order of the landings.
-* I want to be able to see the distribution of class type of meteorites.
-* I want to see the correlation between size and class type.
+  - Visualize the latitude and longitude accurate locations of the landings
+    of each meteorite. Displaying with opacity the the areas with higher and
+    lower effect.
+
+2. **Compare the sizes of the meteorites.**
+
+   - Using varying size that are relative to the mass (g) of each meteorite
+     to compare the sizes of each impact.
+
+3. **Chronological Order of Landings.**
+
+   - Display a year counter that works in unison with the animation.
+     Throughout the visualization the landings will be displayed
+     one by one in consecutive order. Fading out after a period of time
+     to reduce clutter.
+
+4. **Display the Class Types of Meteorites.**
+
+   - Visualize through hue the varying classifications of meteorites.
+     This will display the common and less common classes.
+
+5. **Compare Meteorite Size and Class Type.**
+
+   - Using both the hue to visualize class types and size to display
+     the mass of each meteorite relatively, it will visualize the
+     correlation between class and size. 
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
 
 
 ## Prototypes
