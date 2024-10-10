@@ -2,17 +2,21 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is [a history of Meteorite Landings]([https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/about_data]).
+
+The dataset records historical meteorite landings since the year 1880 and the geolocations of their landings, supplied by NASA. 
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+
+* I want to see the relative locations of the landings on the planet surface.
+I want to represent the sizes of the meteorites by their mass (g).
+I want to be able to see the chronological order of the landings.
+I want to be able to see the distribution of class type of meteorites.
+I want to see the correlation between size and class type.
 
 ## Sketches
 
