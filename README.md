@@ -76,10 +76,10 @@ Click on the image to be sent to the VizHub.
 
 ## Milestones
 
-**Week 8:** Create the world map and change the sizes of the data points by mass.
-**Week 9:** Change the hue based on the class type. Add a year counter.
-**Week 10:** Animate the data points to enter one at a time, year counter follows.
-**Week 11:** Add a second animation so the data points fade once a maximum amount of data points shown is reached.
-**Week 12:** Create a mouse click interaction to display data.
-**Week 13:** Create a comparison tool that expands on the mouse click interaction.
-**Week 14:** Finalize and report.
+  -**Week 8:** Create the world map and change the sizes of the data points by mass.
+  -**Week 9:** Change the hue based on the class type. Add a year counter.
+  -**Week 10:** Animate the data points to enter one at a time, year counter follows.
+  -**Week 11:** Add a second animation so the data points fade once a maximum amount of data points shown is reached.
+  -**Week 12:** Create a mouse click interaction to display data.
+  -**Week 13:** Create a comparison tool that expands on the mouse click interaction.
+  -**Week 14:** Finalize and report.
