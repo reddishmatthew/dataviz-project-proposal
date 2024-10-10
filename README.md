@@ -68,7 +68,7 @@ more or less tha mass, year and GeoLocation is to the other.
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](IMG_6679.jpg)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](Visualization.png)](https://vizhub.com/reddishmatthew/landings-scatterplot)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
