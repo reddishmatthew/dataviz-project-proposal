@@ -78,7 +78,7 @@ Click on the image to be sent to the VizHub.
 
 # Data Points Size By Relative Mass (g)
 
-![image](ApplicationFrameHost_C9rAl5h2MM.png)
+![image](UpdateV.1.png)
 
 # Data Points Color Based On Class
 
@@ -91,7 +91,7 @@ categories from lighter to darker. These different shades portray the subcategor
 
 Purple is used for the subcategories not included in the broad categories. 
 
-![image](ApplicationFrameHost_C9rAl5h2MM.png)
+![image](UpdateV.2.png)
 
 # Create A Color Legend
 
@@ -100,7 +100,7 @@ I noticed that interpolateYlGn was causing both Chondrites and Stony-Irons to be
 made both the colors green on the legend. Changing to interpolate allowed me to directly control the 
 gradient and make Chondrites yellow and Stony-Irons stay green. 
 
-![image](ApplicationFrameHost_C9rAl5h2MM.png)
+![image](UpdateV.3.png)
 
 It is interesting to see the numerous amounts of Chondrites. 
 
