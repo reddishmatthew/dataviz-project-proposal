@@ -76,11 +76,11 @@ Click on the image to be sent to the VizHub.
 
 ## Progression
 
-# Data Points Size By Relative Mass (g)
+### Data Points Size By Relative Mass (g)
 
 ![image](UpdateV.1.png)
 
-# Data Points Color Based On Class
+### Data Points Color Based On Class
 
 This was interesting to work with because there are many, many classes used for these meteorites. 
 Therefore I was not sure how I would handle the colors. I took them into their broader categories:
@@ -93,7 +93,7 @@ Purple is used for the subcategories not included in the broad categories.
 
 ![image](UpdateV.2.png)
 
-# Create A Color Legend
+### Create A Color Legend
 
 Changed the Chondrites from interpolateYlGn to interpolate ('rgb(255, 255, 153)','rgb(153, 153, 0)',). 
 I noticed that interpolateYlGn was causing both Chondrites and Stony-Irons to be shades of green and 
