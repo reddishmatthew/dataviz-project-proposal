@@ -74,6 +74,36 @@ a landing, but currently does not show when they landed, what class they are and
 
 Click on the image to be sent to the VizHub.
 
+## Progression
+
+# Data Points Size By Relative Mass (g)
+
+![image](ApplicationFrameHost_C9rAl5h2MM.png)
+
+# Data Points Color Based On Class
+
+This was interesting to work with because there are many, many classes used for these meteorites. 
+Therefore I was not sure how I would handle the colors. I took them into their broader categories:
+Chondrites, Achondrites, Irons, Stony-Irons. 
+
+To still include the subcategories, however, I used interpolate to create a range for the broader 
+categories from lighter to darker. These different shades portray the subcategories. 
+
+Purple is used for the subcategories not included in the broad categories. 
+
+![image](ApplicationFrameHost_C9rAl5h2MM.png)
+
+# Create A Color Legend
+
+Changed the Chondrites from interpolateYlGn to interpolate ('rgb(255, 255, 153)','rgb(153, 153, 0)',). 
+I noticed that interpolateYlGn was causing both Chondrites and Stony-Irons to be shades of green and 
+made both the colors green on the legend. Changing to interpolate allowed me to directly control the 
+gradient and make Chondrites yellow and Stony-Irons stay green. 
+
+![image](ApplicationFrameHost_C9rAl5h2MM.png)
+
+It is interesting to see the numerous amounts of Chondrites. 
+
 ## Milestones
 
   -  **Week 8:** Create the world map and change the sizes of the data points by mass.
