@@ -76,6 +76,11 @@ Click on the image to be sent to the VizHub.
 
 ## Progression
 
+### UPDATE V.2
+
+Here is the link to version 2 of the [Vizhub Project](https://vizhub.com/reddishmatthew/projectv2).
+
+
 ### Data Points Size By Relative Mass (g)
 
 ![image](UpdateV.1.png)
