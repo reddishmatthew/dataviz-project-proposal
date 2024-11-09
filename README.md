@@ -109,6 +109,30 @@ gradient and make Chondrites yellow and Stony-Irons stay green.
 
 It is interesting to see the numerous amounts of Chondrites. 
 
+### UPDATE V.3
+
+Here is the link to version 3 of the [Vizhub Project](https://vizhub.com/reddishmatthew/projectv2).
+
+### Updating An Interactive Legend 
+
+I have added interactability with the legend by allowing the user to click the general group and a pulldown
+will show the subcategories. What I plan for this is to allow filtering for the user. When a major group is
+clicked it will only show data points for that group and then when a subcategory is clicked it will only
+show data points for that subcategory.
+
+![image](UpdateV.3.1.png)
+
+### Error And Roadblock
+
+I have hit a roadblock where I cannot get the data points to successfully filter. When the category is clicked
+there is no change. When the user uses the interactable legend and clicks a group it makes the other groups 
+disappear to focus on the subcategories. To return the other categories the user just needs to click on the 
+main group again. However, this has the side effect of making all data points disappear from the map. 
+
+![image](UpdateV.3.1Error.png)
+
+My goal for the upcoming week is to get these errors fixed and begin trying to animate the data points. 
+
 ## Milestones
 
   -  **Week 8:** Create the world map and change the sizes of the data points by mass.
