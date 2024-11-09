@@ -111,7 +111,7 @@ It is interesting to see the numerous amounts of Chondrites.
 
 ### UPDATE V.3
 
-Here is the link to version 3 of the [Vizhub Project](https://vizhub.com/reddishmatthew/projectv2](https://vizhub.com/reddishmatthew/meteorlandingsv3).
+Here is the link to version 3 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorlandingsv3).
 
 ### Updating An Interactive Legend 
 
