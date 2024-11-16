@@ -133,6 +133,19 @@ main group again. However, this has the side effect of making all data points di
 
 My goal for the upcoming week is to get these errors fixed and begin trying to animate the data points. 
 
+### UPDATE V.4
+
+Here is the link to version 3 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteoritedatav4).
+
+### Tooltip Interactive With Markers 
+
+When a user hovers over the markers it will allow them to recieve a tooltip that gives the name, mass, class, and year
+of the meteorite. This is something I had in my drawings that I wanted to get done eventually, so it is exciting to see 
+it live in this update.
+The legend still proves to be a problem and will still be worked on.
+
+![image](UpdateV.4.png)
+
 ## Milestones
 
   -  **Week 8:** Create the world map and change the sizes of the data points by mass.
