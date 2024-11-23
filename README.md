@@ -170,6 +170,8 @@ These will be polished in the next iteration.
 
 ![image](UpdateV.5.1.png)
 
+Both images above and below represent these new changes, showing filtering in two different categories.
+
 ![image](UpdateV.5.2.png)
 
 ## Milestones
