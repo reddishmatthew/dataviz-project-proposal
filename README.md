@@ -168,7 +168,9 @@ Unfortunately there are still two errors.
 
 These will be polished in the next iteration.
 
-![image](UpdateV.4.png)
+![image](UpdateV.5.1.png)
+
+![image](UpdateV.5.2.png)
 
 ## Milestones
 
