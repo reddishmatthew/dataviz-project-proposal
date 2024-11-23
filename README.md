@@ -135,7 +135,7 @@ My goal for the upcoming week is to get these errors fixed and begin trying to a
 
 ### UPDATE V.4
 
-Here is the link to version 3 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteoritedatav4).
+Here is the link to version 4 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteoritedatav4).
 
 ### Tooltip Interactive With Markers 
 
@@ -143,6 +143,30 @@ When a user hovers over the markers it will allow them to recieve a tooltip that
 of the meteorite. This is something I had in my drawings that I wanted to get done eventually, so it is exciting to see 
 it live in this update.
 The legend still proves to be a problem and will still be worked on.
+
+![image](UpdateV.4.png)
+
+### UPDATE V.5
+
+Here is the link to version 5 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorlandingsv5).
+
+### Interactive Legend Update
+
+A problem I have had is to have the legend successfully filter. In this iteration I have expanded the legend to include 
+all subclasses that are apart of the original data.csv. This caused the legend to be rather large, so I implemeneted a scroll
+to allow for more efficient use. 
+
+And we have filtering! (Partly). When the main category is clicked it filters to that category and expands the list to show the
+subcategories of that category. When clicked again it unfilters the map and collapses the list!
+
+### Error And Roadblock
+
+Unfortunately there are still two errors. 
+1. The Unknown category does not filter on the maps.
+2. The Subcategories are meant to filter to just the subcategories, however it currently reads the click as a click on the main
+   category and then collapses the list instead of filtering.
+
+These will be polished in the next iteration.
 
 ![image](UpdateV.4.png)
 
