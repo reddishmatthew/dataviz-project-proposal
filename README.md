@@ -174,6 +174,28 @@ Both images above and below represent these new changes, showing filtering in tw
 
 ![image](UpdateV.5.2.png)
 
+### UPDATE V.6
+
+Here is the link to version 5 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorlandingsv6).
+
+### Subcategory Legend Interactibility
+
+In this update the subcategories are now interactive and able to filter the separate classes of the main categories.
+This was something that I wished to accomplish most in the last weeks and finally got to iron it out. There are still
+small edits that need to be made as some outliers seem to be filtering between two different main categories.
+
+![image](UpdateV.6.png)
+
+Here is an example of a subcategory being clicked to filter out the specific class. 
+
+## Future Work
+
+I have not been able to begin on the animation aspect of my project. Creating and filtering the interactive legend and tooltips
+have proven to be problematic and time consuming. 
+
+What I wish to incorporate in the future is an animation based of the filtering clicks where the points appear in chronological order.
+I initially thought to add a year counter too, that allows one to filter based off of the year input.
+
 ## Milestones
 
   -  **Week 8:** Create the world map and change the sizes of the data points by mass.
