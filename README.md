@@ -176,7 +176,7 @@ Both images above and below represent these new changes, showing filtering in tw
 
 ### UPDATE V.6
 
-Here is the link to version 5 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorlandingsv6).
+Here is the link to version 6 of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorlandingsv6).
 
 ### Subcategory Legend Interactibility
 
