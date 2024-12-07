@@ -215,10 +215,17 @@ more points to be seen. You can see the same two points from 1945 represented, b
 
 ## Future Work
 
+ANIMATION:
 I have not been able to begin on the animation aspect of my project. Creating and filtering the interactive legend and tooltips
 have proven to be problematic and time consuming. What I wish to incorporate in the future is an animation based of the filtering 
 clicks where the points appear in chronological order.
 
+COMPARISON FEATURE:
+I believe that the tooltips could have a comparison feature. Currently the tooltips appear when the mouse hovers over the data point.
+If the mouse is clicked it could keep the tooltip from disappearing when the mouse moves away and then allow the user to hover over
+another data point and show a second tooltip. Then with both tooltips showing, the user can see between two meteorite's information.
+
+GLOBE VISUAL:
 I could make the world map a globe. Then add slider bars to rotate the globe and the data points not on the visible face will be filtered out.
 Lastly, add more data from the original .csv file from NASA.
 
