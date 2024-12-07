@@ -188,13 +188,39 @@ small edits that need to be made as some outliers seem to be filtering between t
 
 Here is an example of a subcategory being clicked to filter out the specific class. 
 
+### UPDATE FOR FINAL
+
+Here is the link to the final version of the [Vizhub Project](https://vizhub.com/reddishmatthew/meteorprojectfinal).
+
+### Filter By Year 
+
+As a final update I polished the Subcategory Legend by cleaning up the outliers that would be found in multiple categories
+based on the filtering logic. I made this logic stricter so that the subcategory had to match by specific name. 
+
+The main addition in this final polish is I added a year filter! Users can type a year or part of a year to filter to data points
+from that time period. I find this a great addition to interactibility and an added way to learn about the meteorites. 
+
+![image](Update.Final.png)
+
+Here is an example where I input 1945 as the year. You can see two data points from different categories that are filtered.
+As you can see in the tooltip, the year of the meteorite is 1945. 
+Below shows the other meteorite with the same year.
+
+![image](Update.Final2.png)
+
+This last image below represents the partial search ability. I only input '194' for the year search filter and now there are 
+more points to be seen. You can see the same two points from 1945 represented, but the one I hover over is from 1942. 
+
+![image](Update.Final3.png)
+
 ## Future Work
 
 I have not been able to begin on the animation aspect of my project. Creating and filtering the interactive legend and tooltips
-have proven to be problematic and time consuming. 
+have proven to be problematic and time consuming. What I wish to incorporate in the future is an animation based of the filtering 
+clicks where the points appear in chronological order.
 
-What I wish to incorporate in the future is an animation based of the filtering clicks where the points appear in chronological order.
-I initially thought to add a year counter too, that allows one to filter based off of the year input.
+I could make the world map a globe. Then add slider bars to rotate the globe and the data points not on the visible face will be filtered out.
+Lastly, add more data from the original .csv file from NASA.
 
 ## Milestones
 
